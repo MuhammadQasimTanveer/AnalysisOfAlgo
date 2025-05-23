@@ -11,5 +11,5 @@ This project compares **Bubble Sort**, **Selection Sort**, **Insertion Sort**, a
 - Average time from 5 runs
 
 
-You can run this code using any C++ compiler.  
+You can run this code on  C++ compiler with C++11 support or higher
 **Tested on [Programiz Online Compiler](https://www.programiz.com/cpp-programming/online-compiler)** — just paste the code and execute.
